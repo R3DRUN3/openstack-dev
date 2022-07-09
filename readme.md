@@ -46,8 +46,8 @@ It should work even with older versions of the aforementioned software.
 clone this repo and start the provisioning:
 ```console
 git clone https://github.com/R3DRUN3/openstack-dev.git \
-cd openstack-dev \
-vagrant up
+&& cd openstack-dev \
+&& vagrant up
 ```
 
 After the provisioning is completed (It may takes up to 30 minute), you can login to openstack web dashboard at
