@@ -9,7 +9,7 @@ Deploy an OpenStack Dev instance with Vagrant and Ansible 🏗️ 🧑‍🏭 �
 
 ## Abstract
 
-*OpenStack* is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter,
+**OpenStack** is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter,
 <br>
 all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
 <br> 
@@ -27,7 +27,7 @@ Instead, it leverages the existing virtualisation technologies.
 <br>
 Therefore, OpenStack is more like a wrapper around traditional virtualisation tools, enabling cloud-native capabilities.
 
-*DevStack* is a series of extensible scripts used to quickly bring up a complete OpenStack environment based on the latest versions of everything 
+**DevStack** is a series of extensible scripts used to quickly bring up a complete OpenStack environment based on the latest versions of everything 
 from git master. 
 <br>
 It is used interactively as a development environment and as the basis for much of the OpenStack project’s functional testing.
