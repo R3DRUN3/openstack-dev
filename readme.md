@@ -5,7 +5,7 @@
   <img width="400" height="400" src="./images/openstack.svg">
 </p>
 
-Deploy an OpenStack Dev instance with Vagrant and Ansible.
+Deploy an OpenStack Dev instance with Vagrant and Ansible 🏗️ 🧑‍🏭 🛠️
 
 ## Abstract
 
@@ -45,7 +45,8 @@ It should work even with older versions of the aforementioned software.
 ## Instructions
 clone this repo and start the provisioning:
 ```console
-git clone \
+git clone https://github.com/R3DRUN3/openstack-dev.git \
+cd openstack-dev \
 vagrant up
 ```
 
@@ -55,7 +56,7 @@ the following url:
 `http://192.168.56.10/`
 
 <p align="left">
-  <img width="1000" height="550" src="./images/Horizon-Dashboard.png">
+  <img width="1000" height="450" src="./images/Horizon-Dashboard.png">
 </p>
 
 At this point you can use this instance to learn and do experiments with OpenStack.
