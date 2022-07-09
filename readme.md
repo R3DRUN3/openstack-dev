@@ -50,7 +50,7 @@ git clone https://github.com/R3DRUN3/openstack-dev.git \
 && vagrant up
 ```
 
-After the provisioning is completed (It may takes up to 30 minute), you can login to openstack web dashboard at
+After the provisioning is completed (It may takes up to 30 minute), you can login to openstack web dashboard (admin, secret) at
 the following url: 
 <br>
 `http://192.168.56.10/`
