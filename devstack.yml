@@ -49,6 +49,7 @@
       ansible.builtin.uri:
         url: http://192.168.56.10/dashboard/auth/login/
       register: is_openstack_dashboard_reachable
+      ignore_errors: yes
     - debug: var=is_openstack_dashboard_reachable
 
     - name: Install devstack, this step may take up to 30 minutes
