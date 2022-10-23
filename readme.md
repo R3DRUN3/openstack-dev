@@ -55,8 +55,12 @@ the following url:
 <br>
 `http://192.168.56.10/`
 
-<p align="left">
-  <img width="1000" height="450" src="./images/Horizon-Dashboard.png">
-</p>
+
+<div style="width: 65%; height: 65%">
+
+  ![](/images/Horizon-Dashboard.png)
+  
+</div>  
+<br/>
 
 At this point you can use this instance to learn and do experiments with OpenStack.
